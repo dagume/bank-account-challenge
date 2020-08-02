@@ -1,0 +1,15 @@
+{
+  "name": "bank-account-challenge",
+  "version": "1.0.0",
+  "description": "cuenta bancaria en donde tengas dos tipos de monedas una en Pesos y otra en Dólares, al iniciar la función deberás elegir en cuál cuenta quieres depositar dinero y posteriormente mostrar tu saldo hasta el momento.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Scope",
+    "Closure"
+  ],
+  "author": "Daniel Guecha",
+  "license": "ISC"
+}
